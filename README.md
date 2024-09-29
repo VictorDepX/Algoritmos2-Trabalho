@@ -54,7 +54,7 @@ A disciplina de Algoritmos e Programação II aprofunda os conceitos de lógica 
 
 ## 👨‍🏫 Professor
 Alysson M. Bruno
-LinkedIn (se o professor tiver perfil)
+LinkedIn ()
 
 ## 📝 Licença
 Este repositório está sob a licença MIT.
