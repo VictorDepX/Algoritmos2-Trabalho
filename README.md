@@ -37,5 +37,24 @@ A disciplina de Algoritmos e Programação II aprofunda os conceitos de lógica 
 ## ⚙️ Tecnologias Utilizadas
 
 - **Linguagem:** Java
-- **Ferrament
+- **Ferramentas:** [IntelliJ IDEA](https://www.jetbrains.com/idea/), [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
+## 🚀 Como Utilizar
+
+1. Clone o repositório:
+   ```
+   git clone https://github.com/seu-usuario/algoritmos-e-programacao-II.git
+2. Navegue até a pasta do exercício desejado:
+   ```
+   cd algoritmos-e-programacao-II/Pessoa/
+3. Compile e execute o código Java:
+   ```
+   javac Pessoa.java
+    java Pessoa
+
+## 👨‍🏫 Professor
+Alysson M. Bruno
+LinkedIn (se o professor tiver perfil)
+
+## 📝 Licença
+Este repositório está sob a licença MIT.
