@@ -1,17 +1,17 @@
 import java.util.ArrayList;
-
 public class Biblioteca {
 
-    static ArrayList<String> livros = new ArrayList<String>();
+    static ArrayList<Livro> livros = new ArrayList<>();
 
-    public static String adicionar(String titulo, String autor, Integer anopublicacao) {
-        livros.add(new Livro(titulo, autor, anopublicacao).toString());
+    public static void adicionar(Livro livro){
+        livros.add(livro);
     }
 
-    public static void main(String[] args) {
-        ArrayList<String> livros = new ArrayList<String>();
+    public static void remover(Livro livro){
+        livros.remove(livro);
+    }
 
-
-
+    public static void buscar(Livro livro){
+        System.out.println(livros.get(livros.indexOf(livro)));
     }
 }
