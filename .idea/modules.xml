@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Empresa/Empresa.iml" filepath="$PROJECT_DIR$/Empresa/Empresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pedidos/Pedidos.iml" filepath="$PROJECT_DIR$/Pedidos/Pedidos.iml" />
     </modules>
   </component>
 </project>

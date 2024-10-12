@@ -3,25 +3,31 @@ import java.util.ArrayList;
 public class Empresa {
     String nome;
     String cnpj;
+    static double salario;
 
-    static ArrayList<String> funcionarios = new ArrayList<>();
+    static ArrayList<Empresa> funcionarios = new ArrayList<>();
 
-    public Empresa(String nome, String cnpj) {
+    public Empresa(String nome, String cnpj, double salario) {
         this.nome = nome;
         this.cnpj = cnpj;
+        this.salario = salario;
     }
 
-    public static void adicionar(String nome){
-        funcionarios.add(nome);
+    public static void adicionar(Empresa func){
+        funcionarios.add(func);
     }
 
-    public static void remover(String nome){
-        funcionarios.remove(nome);
+    public static void remover(Empresa func){
+        funcionarios.remove(func);
+    }
+
+    public static double getSalario(){
+        return salario;
     }
 
     public static void folha(){
-        for (String func : funcionarios){
-            System.out.println(func);
+        for (Empresa func : funcionarios) {
+            System.out.println(func.nome + " - " + salario);
         }
     }
 }
