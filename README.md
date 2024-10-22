@@ -30,6 +30,12 @@ Este repositório contém os projetos, atividades e exercícios desenvolvidos du
 - **Biblioteca**  
   Contém as soluções para as questões **6 e 7**, que trabalham com a classe `Biblioteca` e suas interações.
 
+- **Pedidos**  
+  Contém as soluções para as questões **8, 9 e 10**, que abordam a implementação e manipulação de pedidos em Java.
+
+- **Empresa**  
+  Contém a resolução das questões **11 e 12**, relacionadas à criação e gerenciamento de uma estrutura de empresa.
+
 ## 📚 Descrição da Disciplina
 
 A disciplina de Algoritmos e Programação II aprofunda os conceitos de lógica de programação, introduzindo o uso de classes e objetos em Java, além de explorar estruturas de dados e padrões de projeto básicos.
