@@ -29,8 +29,4 @@ public class Aluno{
             System.out.println("Reprovado");
         }
     }
-
-
-
-
 }
